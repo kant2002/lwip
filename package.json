@@ -5,10 +5,10 @@
   "author": "Eyal Arubas <eyalarubas@gmail.com>",
   "bugs": "https://github.com/EyalAr/lwip/issues",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.1.0",
     "bindings": "^1.5.0",
     "decree": "0.0.6",
-    "nan": "^2.12.1"
+    "nan": "^2.14.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.2",
